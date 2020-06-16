@@ -1,0 +1,15 @@
+title: Racovita Iulia-Elena
+description: Resume Website
+
+
+username: RacovitaIulia98 
+user_description: Cybernetics Student
+user_title: Racovita Iulia-Elena
+email: racovitaiuliaelena@gmail.com
+github_username:  RacovitaIulia98
+
+# Google-analytics
+google-analytics:
+  id: ""
+
+exclude: ['package.json', 'src' , 'node_modules']
